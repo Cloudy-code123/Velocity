@@ -1,0 +1,14 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "com.velocity.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "client": [
+        "EntityMixin",
+        "HudMixin",
+        "LivingEntityMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 0
+    }
+}

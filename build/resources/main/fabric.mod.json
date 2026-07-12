@@ -1,0 +1,28 @@
+{
+    "schemaVersion": 1,
+    "id": "velocity",
+    "version": "1.0.0",
+    "name": "Velocity",
+    "description": "Player movement speed enhancement mod with smooth acceleration, sprint boost, and jump boost.",
+    "authors": [
+        "Developer"
+    ],
+    "contact": {},
+    "license": "MIT",
+    "icon": "",
+    "environment": "client",
+    "entrypoints": {
+        "client": [
+            "com.velocity.VelocityMod"
+        ]
+    },
+    "mixins": [
+        "velocity.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=0.16.0",
+        "minecraft": "~1.21.7",
+        "java": ">=21",
+        "fabric-api": "*"
+    }
+}

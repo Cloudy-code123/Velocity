@@ -1,0 +1,30 @@
+{
+  "mappings": {
+    "com/velocity/mixin/EntityMixin": {
+      "setVelocityClient": "Lnet/minecraft/class_1297;method_5750(DDD)V"
+    },
+    "com/velocity/mixin/HudMixin": {
+      "render": "Lnet/minecraft/class_329;method_1753(Lnet/minecraft/class_332;Lnet/minecraft/class_9779;)V"
+    },
+    "com/velocity/mixin/LivingEntityMixin": {
+      "jump": "Lnet/minecraft/class_1309;method_6043()V",
+      "takeKnockback": "Lnet/minecraft/class_1309;method_6005(DDD)V",
+      "travel": "Lnet/minecraft/class_1309;method_6091(Lnet/minecraft/class_243;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/velocity/mixin/EntityMixin": {
+        "setVelocityClient": "Lnet/minecraft/class_1297;method_5750(DDD)V"
+      },
+      "com/velocity/mixin/HudMixin": {
+        "render": "Lnet/minecraft/class_329;method_1753(Lnet/minecraft/class_332;Lnet/minecraft/class_9779;)V"
+      },
+      "com/velocity/mixin/LivingEntityMixin": {
+        "jump": "Lnet/minecraft/class_1309;method_6043()V",
+        "takeKnockback": "Lnet/minecraft/class_1309;method_6005(DDD)V",
+        "travel": "Lnet/minecraft/class_1309;method_6091(Lnet/minecraft/class_243;)V"
+      }
+    }
+  }
+}
