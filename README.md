@@ -11,3 +11,6 @@ How to use it?
 4,Fourth after build successful go to build folder and go to libs folder and then you can get velocity.jar
 
 5,Finally you need put velocity.jar into mod folder from your minecraft folder (if you do not have mod folder, you can create it) and then you can launch your game
+
+
+Usage: enter game and press "'" key it is next to ENTER key to turn on velocity
