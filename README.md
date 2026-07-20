@@ -13,7 +13,7 @@ How to use it?
 5,Finally you need put velocity.jar into mod folder from your minecraft folder (if you do not have mod folder, you can create it) and then you can launch your game
 
 
-Usage: enter game and press "'" key it is next to ENTER key to turn on velocity
+Usage: press "'" key in game to turn on velocity it is next to ENTER key 
 
 <img width="278" height="106" alt="images" src="https://github.com/user-attachments/assets/a227a5e1-1120-48ed-8ea4-30bd11489c9e" />
 
