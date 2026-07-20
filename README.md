@@ -14,3 +14,6 @@ How to use it?
 
 
 Usage: enter game and press "'" key it is next to ENTER key to turn on velocity
+
+<img width="278" height="106" alt="images" src="https://github.com/user-attachments/assets/a227a5e1-1120-48ed-8ea4-30bd11489c9e" />
+
