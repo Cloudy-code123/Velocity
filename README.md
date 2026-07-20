@@ -1,5 +1,10 @@
 This is Velocity minecraft mod and it is 1.21.7 version
 
+What is velocity?
+
+In Minecraft, a velocity hack (often called Anti-Knockback or Anti-KB) is a client-side cheat that manipulates or nullifies the knockback a player receives when hit by other players or explosions. It allows cheaters to maintain their combos and remain entirely unaffected by attacks that would normally push them back
+
+
 How to use it?
 
 1,First Save those code into zip file and then unzip it and open it in code editor
