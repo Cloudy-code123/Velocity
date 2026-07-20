@@ -1,4 +1,4 @@
-##**This is Velocity minecraft mod and it is 1.21.7 version**
+**This is Velocity minecraft mod and it is 1.21.7 version**
 
 **What is velocity?**
 
